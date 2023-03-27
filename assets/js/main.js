@@ -59,7 +59,7 @@ import Product from "./Models/Product.js";
 }
  */
 
-import { printProductCards,printCart } from "./Helpers/function";
+import { printProductCards,printCart } from "./Helpers/function.js";
 
 const productsElement = document.getElementById('products')
 printProductCards(productsElement, products)

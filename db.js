@@ -1,4 +1,4 @@
-import Product from "./assets/js/Models/Product"
+import Product from "./assets/js/Models/Product.js"
 
 const products = [
     new Product('SSD 1TB Crucial Disk', 'Super fast SSD drive', 49.99, 'PC Hardware', './assets/img/ssd.jpg'),
